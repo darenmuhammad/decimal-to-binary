@@ -97,5 +97,4 @@ Ditunda 2 detik
 
 - **Call Stack** menentukan urutan eksekusi fungsi.
 - **Recursion** memungkinkan fungsi memanggil dirinya sendiri.
-- **String functions** sangat berguna untuk memanipulasi teks.
 - **setTimeout** membantu menunda eksekusi fungsi tanpa memblokir kode lain.
